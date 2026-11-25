@@ -1,0 +1,10 @@
+product_name,category,unit_price,region_name,manager_name,quantity,sale_date
+Laptop Pro 15,Electronics,90000,north,Aarav Sharma,5,2026-08-15
+Wireless Mouse,electronics,1000,South,Priya Nair,25,2026-09-02
+Ergonomic Chair,Furniture,12000,WEST,Rohan Verma,10,2026-09-18
+Standing Desk,furniture,20000,North,Aarav Sharma,4,2026-10-05
+4K Monitor,Electronics,25000,east,Meera Iyer,8,2026-10-12
+Mechanical Keyboard,Electronics,4500,South,Priya Nair,15,2026-10-20
+Office Sofa,Furniture,35000,East,Meera Iyer,2,2026-11-01
+Noise Cancelling Headphones,Electronics,15000,West,Rohan Verma,12,2026-11-10
+Laptop Pro 15,Electronics,90000,South,Priya Nair,,2026-11-15
